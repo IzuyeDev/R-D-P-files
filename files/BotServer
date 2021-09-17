@@ -1,0 +1,8 @@
+@echo off
+echo.
+echo.
+cmd /c wget -P C:\Users\administrator\ https://codeload.github.com/RizeKy/Self-bot-wa/zip/refs/heads/master
+::powershell Invoke-WebRequest https://codeload.github.com/RizeKy/Self-bot-wa/zip/refs/heads/master -OutFile D:\Bot Server\botwa.zip
+echo.
+echo.
+exit
